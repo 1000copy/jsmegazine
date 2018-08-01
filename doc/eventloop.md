@@ -1,4 +1,6 @@
-# Node.js理解事件循环机制 by wayneli
+# Node.js理解事件循环机制 
+by wayneli
+编辑：reco
 
 ## 前沿
 

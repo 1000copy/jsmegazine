@@ -1,4 +1,6 @@
 # 浅谈Node.js的工作原理及优缺点
+原文：https://blog.csdn.net/kaosini/article/details/8090510
+编辑：reco
 
 如果您听说过Node，或者阅读过一些文章，宣称Node是多么多么的棒，那么您可能会想：“Node究竟是什么东西？” 即便是在参阅Node的主页之后，您甚至可能还是不明白 Node为何物？Node肯定不适合每个程序员，但它可能是某些程序员一直苦苦追寻的东西。
 
