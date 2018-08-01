@@ -1,5 +1,4 @@
 # Summary
-* [Nodejs介绍](chapter1.md)
 * [Nodejs事件循环解析](doc/understandingeventloop.md)
 * [Nodejs选型考量](doc/nodejssel.md)
 * [Nodejs并行实践问答](doc/concurrent.md)
