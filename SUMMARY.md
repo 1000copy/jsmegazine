@@ -1,4 +1,4 @@
-![](javascriptmagazine.png)
+![](cover.png)
 # Summary
 * [Nodejs事件循环解析](doc/understandingeventloop.md)
 * [Nodejs选型考量](doc/nodejssel.md)
