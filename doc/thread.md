@@ -1,6 +1,7 @@
 # Threads in Node 10.5.0: a practical intro
 
 by Fernando Doglio
+翻译：reco
 
 几天前，Node.js的10.5.0版本已经发布，其中包含的一个主要功能是增加了初始（和实验性）线程支持。这很有趣，特别是来自一种总是它是非常棒的异步I / O引以为傲的语言，因此需要线程。那么为什么我们需要Node中的线程？
 

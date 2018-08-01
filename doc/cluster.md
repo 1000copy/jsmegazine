@@ -1,6 +1,7 @@
 # Understanding the NodeJS cluster module
 
 by Antonio Santiago http://www.acuriousanimal.com/
+翻译：reco
 
 NodeJS进程在单个进程上运行，这意味着默认情况下它不会从多核系统中获益。如果你有一个8核CPU并通过$ node app.js运行NodeJS程序，它将在一个进程中运行，其余的CPU是浪费的。
 

@@ -1,4 +1,6 @@
 #nodejs并行实践问答 
+作者：hasanyasin@stackoverflow  Ankara, Turkey
+翻译：reco
 
 Node具有完全不同的编程范式，一旦正确理解，就更容易看到解决问题的不同方式。您永远不需要Node应用程序中的多个线程，因为您有不同的方式来执行相同的操作。您创建多个流程;但它与Apache Web Server的Prefork mpm的功能非常不同。
 
