@@ -1,8 +1,7 @@
 # Summary
 * [封面故事](doc/story.md)
 * [认识事件循环]()
-	* [Nodejs事件循环解析](doc/understandingeventloop.md)
-	* [Nodejs事件循环解析](doc/understandingeventloop.md)
+	* [Nodejs事件循环解析](doc/eventloop.md)
 * [并发考量]()
 	* [Nodejs选型考量](doc/nodejssel.md)
 	* [Nodejs并行实践问答](doc/concurrent.md)
@@ -15,3 +14,4 @@
 	* [Nodejs也引入线程了](doc/thread.md)
 	* [Nodejs群集方法](doc/cluster.md)
 * [Ryan访谈](doc/maker.md)
+* [编辑谈](doc/paperback.md)
