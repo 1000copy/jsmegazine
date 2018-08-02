@@ -1,4 +1,3 @@
-![](cover.png)
 # Summary
 * [封面故事](doc/story.md)
 * [认识事件循环]()

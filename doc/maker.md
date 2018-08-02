@@ -1,6 +1,7 @@
 # 对Node.js创造者的访问
 
 作者：mappingthejourney.com
+翻译：Reco
 
 Ryan Dahl是Google Brain的一名软件工程师。 他是Node.js的创建者。Node.js是基于Chrome的V8 JavaScript引擎构建的JavaScript运行时。 目前，他正致力于深入学习深度学习研究项目。 他的重点主要是图像到图像的变换，如着色和超分辨率。 他为几个开源项目做出了贡献，包括HTTP Parser，libuv。
 
