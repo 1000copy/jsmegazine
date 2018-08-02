@@ -21,6 +21,8 @@
 
 对了，总编叫做reco，找好文章编辑下，也自己写，也翻译，手下一个兵丁也是没有的。有兴趣的话，发一个简历，我看得上你的话，可以一起工作。钱是没有的，一分也没有。
 
+如果你喜欢网站阅读的话，[可以在这里看到全本](https://legacy.gitbook.com/book/1000copy/javascriptmagazine/)，并且，你可以下载其他的离线电子书格式，比如epub，mobi等。
+
 # Node.js 介绍
 
 Ryan Dahl于2007年创造了Nodejs。现象表明，Nodejs非常火热。事实证明，Nodejs的成功，因为Ryan做了两个明智的选择：异步IO范式和执行引擎V8。
