@@ -35,7 +35,7 @@ cnblogs 联系。
 刘传君。
 
 
-## hasanyasin:
+## DONE hasanyasin:
 
 I am making a free e-magazine for Javascript to populate it in my company and friend cycles .and I've found your answer , which is very excise and useful .
 

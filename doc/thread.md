@@ -3,6 +3,8 @@
 by Fernando Doglio
 翻译：reco
 
+ref@medium: [Threads in Node 10.5.0: a practical intro by Fernando Doglio](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953)
+
 几天前，Node.js的10.5.0版本已经发布，其中包含的一个主要功能是增加了初始（和实验性）线程支持。这很有趣，特别是来自一种总是它是非常棒的异步I / O引以为傲的语言，因此需要线程。那么为什么我们需要Node中的线程？
 
 快速而简单的答案是：让Node在过去难受的区域中表现出色：处理*繁重的CPU密集型计算*。就是这个原因，导致Node.js在AI，机器学习，数据科学等领域表现并不出色。nodejs正在努力寻求解决这个问题，但仍然没有像部署微服务那样高效。
@@ -176,5 +178,4 @@ startWorker函数返回新实例，如果您愿意，可以稍后向其发送消
 去阅读PR评论和文档，有关于此的更多信息，我只关注它的基本步骤。
 玩的开心！四处游玩，报告错误并提出改进建议，这刚刚开始！
 
-ref@medium: Threads in Node 10.5.0: a practical intro by Fernando Doglio
 
